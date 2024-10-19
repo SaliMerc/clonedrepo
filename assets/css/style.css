@@ -102,9 +102,14 @@
   box-sizing: border-box;
 }
 #main{
-  background-color: #050522;
+  background-color: #272739;
 }
-
+.color{
+  background-color: #272739;
+}
+.container{
+  background-color: #272739;
+}
 li { list-style: none; }
 
 a {
